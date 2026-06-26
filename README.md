@@ -116,4 +116,4 @@ mejor segmentación de la tabla en PDFs muy marcados, y empaquetado.
 
 ## Licencia
 
-Pendiente de definir (sugerido: MIT).
+MIT — ver [LICENSE](LICENSE).

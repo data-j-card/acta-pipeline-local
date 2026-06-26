@@ -116,4 +116,4 @@ segmentation for heavily-marked PDFs, and packaging.
 
 ## License
 
-To be defined (MIT suggested).
+MIT — see [LICENSE](LICENSE).
