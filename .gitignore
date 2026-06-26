@@ -1,0 +1,30 @@
+# --- Entorno y dependencias ---
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# --- Datos de entrada (NUNCA versionar: audios, PDFs, actas de referencia) ---
+data/
+data test/
+*.m4a
+*.mp3
+*.wav
+*.pdf
+*.docx
+
+# --- Salidas generadas (pueden contener datos personales) ---
+output/
+
+# --- Binarios portatiles ---
+tools/
+
+# --- Configuracion real con datos del cliente (usar datos_acta.example.json) ---
+datos_acta.json
+datos_acta_*.json
+!datos_acta.example.json
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db

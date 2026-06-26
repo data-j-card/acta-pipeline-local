@@ -1,0 +1,11 @@
+# PyTorch con CUDA se instala APARTE (ver README). Ejemplo (CUDA 12.8):
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu128
+# Luego:
+#   pip install -r requirements.txt
+
+whisperx>=3.8        # transcripcion (faster-whisper) + diarizacion (pyannote)
+easyocr              # OCR del padron de asistencia (escaneado)
+pymupdf              # render del PDF a imagen
+python-docx          # exportacion del acta a .docx
+requests             # cliente HTTP para Ollama
+python-dotenv        # carga de .env (HF_TOKEN)

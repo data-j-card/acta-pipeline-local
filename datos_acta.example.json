@@ -1,0 +1,19 @@
+{
+  "entrada": {
+    "audios": ["sesion1.m4a", "sesion2.m4a"],
+    "pdf_asistencia": "listado_asistencia.pdf",
+    "acta_referencia": "acta_referencia.docx"
+  },
+  "numero_acta": "001",
+  "tipo_asamblea": "General Extraordinaria",
+  "ciudad": "Ciudad",
+  "fecha_reunion": "1 de enero de 2025",
+  "hora_inicio": "7:00 p.m.",
+  "lugar": "el salón social",
+  "conjunto": "CONJUNTO RESIDENCIAL EJEMPLO",
+  "nit": "000000000-0",
+  "convoca": "la administradora",
+  "base_legal": "Ley 675 del 3 de agosto de 2001",
+  "articulo_legal": "artículo 51 numeral 1",
+  "fecha_convocatoria": "1 de diciembre de 2024"
+}
